@@ -1,0 +1,6 @@
+# Webpack Output Folder
+dist/
+# NPM Repositories
+node_modules/
+# VSCode Local Configration
+.vscode/
